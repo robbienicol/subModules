@@ -1,0 +1,12 @@
+{
+  "name": "sub",
+  "displayName": "sub",
+  "expo": {
+    "name": "sub",
+    "slug": "sub",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
